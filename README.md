@@ -1,14 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
 # image-in-readme
-use github issuses to host image
 
 https://github.com/osmanzakaria532/soul-space-fianl-exam/issues/1#issue-2318549579
+
+#Qouestion 01: React JS - Vite Install                             Done
+#Qouestion 02: React Router DOM Install and Dynamic Routing SetUp  Done
+#Qouestion 03: React Conponents Creation and Props Pass            Done
+#Qouestion 04: Tailwind CSS Install                                Done
+#Qouestion 05: Complate the Figma to React JS                      Done
