@@ -8,4 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+# image-in-readme
+use github issuses to host image
+
 https://github.com/osmanzakaria532/soul-space-fianl-exam/issues/1#issue-2318549579
